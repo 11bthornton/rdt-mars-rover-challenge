@@ -10,15 +10,15 @@ The program is split into three packages:
 - Models - houses models such as Rover, Instruction, Heading, Position, etc.
 - Tests
 
-**Time spent:**
-- Planning, figuring out steps: 30 mins
+**Time spent: estimates only**
+- Planning, figuring out steps: 45 mins
 - Writing the models and related unit tests: 2 hours
 - Writing the mechanism to read inputs from file: 30 mins
-- Writing the main algorithm: 25 mins
+- Writing the main algorithm: 45 mins
 - Extra tests: 1 hr
-- Documentation and commenting: 30 mins
-
-**Total: 5hrs roughly** but not all at once
+- Documentation and commenting: 1hr
+  + extra formatting
+**Total: 6.5hrs roughly** but not all at once
 
 **TEST COVERAGE PERCENTAGE: 92.6%**
 
